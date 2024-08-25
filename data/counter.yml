@@ -1,0 +1,14 @@
+enable : true
+heading : "THE PROOF IS IN THE PUDDING!"
+counter_item: 
+  - title: "Happy Clients"
+    number: "250"
+
+  - title: "Deliveries"
+    number: "3200"
+
+  - title: "Cylinders"
+    number: "5350"
+
+  - title: "Telephone Talks"
+    number: "775"
